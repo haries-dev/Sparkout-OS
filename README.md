@@ -14,13 +14,6 @@ Flavours Of Sparkout_OS :
    2. Sparkout_OS | Ultra-Lite-Edition : https://github.com/Sparkout-OS/Sparkout_OS-Ultra-Lite-Edition
    3. Sparkout_OS | Vmware-Virtual-Box-Image https://github.com/Sparkout-OS/Sparkout_OS-Vmware-Virtual-Box-Image
 
-
-Minimum Requirements [ Sparkout_OS ] :
-
-2 GB of RAM and 50 GB Storage. >>> But, According to Microsoft , Windows 11 need minimum 4 GB RAM - But I fully Optimized For Potato Computers.
-1 GB Graphics memory needed.
-2 core processor needed.
-
 Minimum Requirements [ Sparkout_OS ] :
 
 2 GB of RAM and 50 GB Storage. >>> But, According to Microsoft , Windows 11 need minimum 4 GB RAM - But I fully Optimized For Potato Computers.
@@ -44,7 +37,7 @@ COMODO Firewall - Custom Configuration [ Anti - Ransomeware ] *New Features
 Performance Optimized and 50 Bugs Fixed.
 Android Apps support Without Third Party Emulator. *Windows 11 Default Feature
 
-Softwares Were Pre - Installed In Sparkout OS
+Softwares Were Pre - Installed In Sparkout OS :
 
 Office 2019 OS pre - Installed with OWN Server Activation
 Github Desktop
